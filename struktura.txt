@@ -1,0 +1,6 @@
+portfolio/
+│
+├── index.html    --> A weboldal fő HTML fájlja
+├── styles.css    --> A CSS fájl a megjelenéshez
+├── script.js     --> A JavaScript fájl a dinamikus funkciókhoz
+└── .gitignore    --> Git beállításokhoz szükséges fájl (nem kötelező, de hasznos)
